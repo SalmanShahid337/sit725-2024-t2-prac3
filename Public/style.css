@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.lead {
+    font-weight: 400;
+    color: #7f8c8d;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    color: white;
+}
+
+.navbar {
+    background-color: #3498db !important;
+}
+
+.card-action a {
+    color: #3498db !important;
+    font-weight: 500;
+}
